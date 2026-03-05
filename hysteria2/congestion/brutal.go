@@ -6,7 +6,7 @@ import (
 
 	"github.com/metacubex/quic-go/congestion"
 	"github.com/metacubex/quic-go/monotime"
-	"github.com/metacubex/sing/common/logger"
+	"github.com/kyuofox/sing/common/logger"
 )
 
 const (

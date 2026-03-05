@@ -1,11 +1,11 @@
 package hysteria2
 
 import (
-	"github.com/metacubex/sing/common"
-	"github.com/metacubex/sing/common/auth"
-	"github.com/metacubex/sing/common/canceler"
-	E "github.com/metacubex/sing/common/exceptions"
-	M "github.com/metacubex/sing/common/metadata"
+	"github.com/kyuofox/sing/common"
+	"github.com/kyuofox/sing/common/auth"
+	"github.com/kyuofox/sing/common/canceler"
+	E "github.com/kyuofox/sing/common/exceptions"
+	M "github.com/kyuofox/sing/common/metadata"
 )
 
 func (s *serverSession[U]) loopMessages() {

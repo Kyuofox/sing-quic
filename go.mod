@@ -1,12 +1,12 @@
-module github.com/metacubex/sing-quic
+module github.com/kyuofox/sing-quic
 
 go 1.20
 
 require (
+	github.com/kyuofox/sing v0.0.0-20260305040306-d4fc611799ab
 	github.com/metacubex/http v0.1.0
 	github.com/metacubex/quic-go v0.59.1-0.20260112033758-aa29579f2001
 	github.com/metacubex/randv2 v0.2.0
-	github.com/metacubex/sing v0.5.2
 	github.com/metacubex/tls v0.1.0
 	golang.org/x/crypto v0.33.0
 )

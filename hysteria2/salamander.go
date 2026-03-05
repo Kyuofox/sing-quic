@@ -3,8 +3,8 @@ package hysteria2
 import (
 	"net"
 
-	"github.com/metacubex/sing/common"
-	"github.com/metacubex/sing/common/buf"
+	"github.com/kyuofox/sing/common"
+	"github.com/kyuofox/sing/common/buf"
 
 	"golang.org/x/crypto/blake2b"
 )

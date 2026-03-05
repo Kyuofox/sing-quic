@@ -7,10 +7,10 @@ import (
 	"io"
 
 	"github.com/metacubex/quic-go/quicvarint"
-	"github.com/metacubex/sing/common"
-	"github.com/metacubex/sing/common/buf"
-	E "github.com/metacubex/sing/common/exceptions"
-	"github.com/metacubex/sing/common/rw"
+	"github.com/kyuofox/sing/common"
+	"github.com/kyuofox/sing/common/buf"
+	E "github.com/kyuofox/sing/common/exceptions"
+	"github.com/kyuofox/sing/common/rw"
 )
 
 const (
